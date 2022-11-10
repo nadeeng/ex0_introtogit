@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: yellow
+Favorite food: ice cream
+Favorite musician/band: none
+Favorite movie: none
+Requested grade in the course: 55
